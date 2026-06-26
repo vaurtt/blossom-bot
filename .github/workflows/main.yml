@@ -1,4 +1,4 @@
-name: blossom bot
+name: discord bot
 on:
   workflow_dispatch:
 
